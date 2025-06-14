@@ -42,12 +42,3 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
 5. Enjoy! (For arm cpus, visit https://github.com/pigzillaaaaa/daddylive/issues/10)
 
 
-
-## tip
-
-<p align="left">
-  <a href="https://ko-fi.com/pigzillaaaaa" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi5.png" alt="Buy Me a Coffee" style="height:50px;" />
-  </a>
-</p>
-Join our discord: https://discord.gg/aVuhm62hFU (#iptv)
